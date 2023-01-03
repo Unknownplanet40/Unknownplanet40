@@ -9,6 +9,8 @@ I am a second year college student with Java, C#, Visual Basic.NET, and Web Deve
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [Ryanjamesc4@gmail.com](mailto:Ryanjamesc4@gmail.com)
 * 🧠  I'm learning PHP, MySQL
+* ⚡  I would love to become a software developer or web developer. Either would be fine with me
+
 <details><summary>𝕃𝕚𝕟𝕜𝕤 𝕪𝕠𝕦 𝕞𝕒𝕪 𝕗𝕚𝕟𝕕 𝕦𝕤𝕖𝕗𝕦𝕝</summary>
   <p>
     
@@ -16,7 +18,6 @@ I am a second year college student with Java, C#, Visual Basic.NET, and Web Deve
     
   </p>
 </details>
-
 
 <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -55,10 +56,3 @@ src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=f
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/up40"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
-<!---
-Unknownplanet40/Unknownplanet40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
