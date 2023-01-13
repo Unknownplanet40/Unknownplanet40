@@ -7,8 +7,8 @@ Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learn
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [Ryanjamesc4@gmail.com](mailto:Ryanjamesc4@gmail.com)
-* 🧠  I'm learning PHP, MySQL
-* ⚡  I would love to become a software developer or web developer. Either would be fine with me
+* 🧠  At the moment, I'm expanding my skillsets by studying PHP and MySQL.
+* ⚡  I'm passionate about pursuing a career in software or web development. Both options would be equally fulfilling to me.
 
 ------------
 
