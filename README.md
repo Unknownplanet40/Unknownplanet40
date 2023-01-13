@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan James Capadocia / Unknownplanet40
-==============================================================================================================================================================
+<p align="center" width="100%">
+  <img src="https://github.com/Unknownplanet40/Unknownplanet40/blob/2a366bce3c1d60a37109b1068af0df5223d1281c/CoverImage.png" align="center" width="820px" />
+</p>
 
-I.T. Student
 ------------
-
-I am a second year college student with Java, C#, Visual Basic.NET, and Web Development skills as well as knowledge of other languages such as Python. I have a basic understanding of each language but am interested in more in-depth knowledge.
+Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learning Java, C# , Visual Basic.NET, Web Development and Python. My understanding of each language is quite basic to intermediate, however I have a strong desire to further my knowledge and gain more insight. I am familiar with the following tools: Github, Eclipse, Visual Studio Code, Sublime Text, Xampp, Apache Netbeans, and more. I'm very driven and enthusiastic towards learning new technologies and other languages.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [Ryanjamesc4@gmail.com](mailto:Ryanjamesc4@gmail.com)
 * 🧠  I'm learning PHP, MySQL
 * ⚡  I would love to become a software developer or web developer. Either would be fine with me
+
+------------
 
 <details><summary>𝕃𝕚𝕟𝕜𝕤 𝕪𝕠𝕦 𝕞𝕒𝕪 𝕗𝕚𝕟𝕕 𝕦𝕤𝕖𝕗𝕦𝕝</summary>
   <p>
@@ -19,13 +20,15 @@ I am a second year college student with Java, C#, Visual Basic.NET, and Web Deve
   </p>
 </details>
 
+------------
+
 <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
 
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -43,8 +46,11 @@ src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/Unknownplanet40/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Cappps.Lock/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ryan-james-capadocia-025984199/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/unknownplanet-40" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p
+<p align="center"> 
+<a href="https://www.codepen.io/Unknownplanet40/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Cappps.Lock/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ryan-james-capadocia-025984199/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/unknownplanet-40" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p
 
+
+------------
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/up40"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ <a href="https://www.buymeacoffee.com/up40"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
