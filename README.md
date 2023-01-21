@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=f
 ------------
 
 <div align="center">
-<a href="github.com/Unknownplanet40"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula"/></a>
+<a href="#"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula"/></a>
 
-<a href="github.com/Unknownplanet40"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownplanet40&hide=Hack&theme=dracula"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownplanet40&hide=Hack&theme=dracula"/></a>
 </div>
