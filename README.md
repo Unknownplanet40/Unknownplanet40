@@ -24,6 +24,7 @@ Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learn
 
 <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="center"></p>
 
 ### Skills
 
@@ -54,3 +55,11 @@ src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=f
 ### Support Me
 
  <a href="https://www.buymeacoffee.com/up40"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
+ 
+------------
+
+<div align="center">
+<a href="github.com/Unknownplanet40"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula"/></a>
+
+<a href="github.com/Unknownplanet40"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownplanet40&hide=Hack&theme=dracula"/></a>
+</div>
