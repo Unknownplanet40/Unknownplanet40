@@ -22,9 +22,13 @@ Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learn
 
 ------------
 
-<a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="center"></p>
+
+<p align="center">
+  <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+    <img  src="https://profile-counter.glitch.me/{Unknownplanet40}/count.svg"/>
+</p>
 
 ### Skills
 
