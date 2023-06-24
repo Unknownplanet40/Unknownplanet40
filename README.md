@@ -30,7 +30,7 @@ Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learn
     <img  src="https://profile-counter.glitch.me/{Unknownplanet40}/count.svg"/>
 </p>
 
-### Skills
+### The programming language that I'm using in my projects
 
 <div align="center">
 
