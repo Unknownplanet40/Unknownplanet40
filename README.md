@@ -1,44 +1,8 @@
-<p align="center" width="100%">
-  <img src="https://github.com/Unknownplanet40/Unknownplanet40/blob/2a366bce3c1d60a37109b1068af0df5223d1281c/CoverImage.png" align="center" width="820px" />
-</p>
-
----
-
-Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learning Java, C# , Visual Basic.NET, Web Development and Python. My understanding of each language is quite basic to intermediate, however I have a strong desire to further my knowledge and gain more insight. I am familiar with the following tools: Github, Eclipse, Visual Studio Code, Sublime Text, Xampp, Apache Netbeans, and more. I'm very driven and enthusiastic towards learning new technologies and other languages.
-
-- 🌍  I'm based in Philippines
-- ✉️  You can contact me at [Ryanjamesc4@gmail.com](mailto:Ryanjamesc4@gmail.com)
-- 🧠  At the moment, I'm expanding my skillsets by studying PHP and MySQL.
-- ⚡  I'm passionate about pursuing a career in software or web development. Both options would be equally fulfilling to me.
-
----
-
-<details><summary>𝕃𝕚𝕟𝕜𝕤 𝕪𝕠𝕦 𝕞𝕒𝕪 𝕗𝕚𝕟𝕕 𝕦𝕤𝕖𝕗𝕦𝕝</summary>
-  <div align="center">
-    
-  # [![`Github Gist Collections`](https://fontmeme.com/permalink/230527/1a158c2a09db5501701524e9cf3d2230.png "A collection of crack applications, license keys, programming tutorials, and Windows tips & tricks")](https://bit.ly/Gist-GitHub)
-    
-  </div>
-</details>
-
----
-
-<p align="center">
-  <a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-    <img  src="https://profile-counter.glitch.me/{Unknownplanet40}/count.svg"/>
-</p>
-
-### Language that I'm using in my projects
-
 <div align="center">
-
-[![My Skills](https://skills.thijs.gg/icons?i=cs,cpp,java,php,html,jquery,css,bootstrap,mysql,figma,md)](#skills)
-
+  <img src="https://github.com/Unknownplanet40/Unknownplanet40/blob/2a366bce3c1d60a37109b1068af0df5223d1281c/CoverImage.png" align="center" width="820px" />
 </div>
 
-### Socials
+###
 
 <div align="center">
 
@@ -50,9 +14,55 @@ Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learn
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codepen.io/Unknownplanet40/)
 [![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/unknownplanet-40)
 
+<a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+
 </div>
 
----
+###
+
+<div align="center">
+  <img  src="https://profile-counter.glitch.me/{Unknownplanet40}/count.svg"/>
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+Greetings, I'm <b>Ryan James Capadocia</b>. I am currently a Junior in college learning [...]. My understanding of each language is quite basic to intermediate, however I have a strong desire to further my knowledge and gain more insight. I am familiar with the following tools: Github, Eclipse, Visual Studio Code, Sublime Text, Xampp, Apache Netbeans, and more. I'm very driven and enthusiastic towards learning new technologies and other languages.
+
+- 🌍  I'm based in Philippines
+- ✉️  You can contact me at [Ryanjamesc4@gmail.com](mailto:Ryanjamesc4@gmail.com)
+- 🧠  At the moment, I'm expanding my skillsets by studying PHP and MySQL.
+- ⚡  I'm passionate about pursuing a career in software or web development. Both options would be equally fulfilling to me.
+
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+
+  [![My Skills](https://skills.thijs.gg/icons?i=java,php,mysql,md,cs,cpp,html,css,js,bootstrap,jquery)](#skills)
+
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
 <a href="#"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula"/></a><br>
@@ -61,3 +71,5 @@ Greetings, I'm Ryan James Capadocia. I am currently a sophomore in college learn
   
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownplanet40&hide=Hack&theme=dracula"/></a>
 </div>
+
+###
