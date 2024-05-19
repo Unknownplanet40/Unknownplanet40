@@ -54,7 +54,7 @@ Greetings, I'm <b>Ryan James Capadocia</b>. I am currently a Junior in college l
 
 <div align="left">
 
-  [![My Skills](https://skills.thijs.gg/icons?i=java,php,mysql,md,cs,cpp,html,css,js,bootstrap,jquery)](#skills)
+  [![My Skills](https://skillicons.dev/icons?i=java,php,mysql,md,cs,cpp,html,css,js,bootstrap,jquery)](#skills)
 
 </div>
 
