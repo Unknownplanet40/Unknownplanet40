@@ -1,81 +1,66 @@
 <div align="center">
-  <img src="https://github.com/Unknownplanet40/Unknownplanet40/blob/2a366bce3c1d60a37109b1068af0df5223d1281c/CoverImage.png" align="center" width="820px" />
+  <img src="CoverImage.png" align="center" width="820px" />
 </div>
+<br>
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&duration=2500&pause=5000&color=F7F7F7&vCenter=true&width=512&height=30&lines=Hi+%F0%9F%91%8B%2C+Ryan+James+Capadocia;Hi+%F0%9F%91%8B%2C+Unknownplanet40" />
 
-<div align="center">
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unknownplanet40)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Cappps.Lock/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-james-capadocia-025984199/)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/rjc-6/)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/up40)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codepen.io/Unknownplanet40/)
-[![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/unknownplanet-40)
-
-<a href="https://www.github.com/Unknownplanet40" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-
-</div>
-
-###
-
-<div align="center">
-  <img  src="https://profile-counter.glitch.me/{Unknownplanet40}/count.svg"/>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
+<br>
 <p align="left">
-Greetings, I'm <b>Ryan James Capadocia</b>. I am currently a Junior in college learning [...]. My understanding of each language is quite basic to intermediate, however I have a strong desire to further my knowledge and gain more insight. I am familiar with the following tools: Github, Eclipse, Visual Studio Code, Sublime Text, Xampp, Apache Netbeans, and more. I'm very driven and enthusiastic towards learning new technologies and other languages.
-
-- 🌍  I'm based in Philippines
-- ✉️  You can contact me at [Ryanjamesc4@gmail.com](mailto:Ryanjamesc4@gmail.com)
-- 🧠  At the moment, I'm expanding my skillsets by studying PHP and MySQL.
-- ⚡  I'm passionate about pursuing a career in software or web development. Both options would be equally fulfilling to me.
+<a href="https://www.facebook.com/Cappps.Lock/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.linkedin.com/in/ryan-james-capadocia-025984199/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.udemy.com/user/rjc-6/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/></a>
+<a href="https://www.codepen.io/Unknownplanet40/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
+<a href="https://www.stackoverflow.com/users/unknownplanet-40" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/></a>
+<a href="https://www.stackoverflow.com/users/unknownplanet-40" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers"/></a>
+<a href="https://wakatime.com/@c88aa3fb-459c-4ade-8c73-64f74da34f06" title="Total time coded"><img src="https://wakatime.com/badge/user/c88aa3fb-459c-4ade-8c73-64f74da34f06.svg?style=for-the-badge&color=01B6F5&label_color=0D0D0D" alt="WakaTime — Total time coded" /></a>
 </p>
-
-###
-
-## Portfolio
-[<img src="https://cdn-icons-png.flaticon.com/512/8901/8901502.png" width="48" height="48" alt="Portfolio icon"/>](https://unknownplanet40.github.io/Port-folio/)
-
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=java,php,mysql,md,cs,cpp,html,css,js,bootstrap,jquery)](#skills)
-
+<div align="center">
+<p>Visitor's Count :</p>
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
-###
+<h4 align="center">I debug life the same way I debug code with patience, caffeine, and a bit of panic.</h4>
+<hr width="60%">
+<br>
+<img align="right" alt="Coding" width="250" src="Gprofile.gif"></p>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<div align="left" width="60%">
 
-<h3 align="left">🔥   My Stats :</h3>
+![My Skills](https://skillicons.dev/icons?i=java,php,mysql)
+![My Skills](https://skillicons.dev/icons?i=md,cs,cpp)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=jquery)
 
-###
+</div>
+<br>
+<hr width="36%">
+<h3>My Trophy Case</h3>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=3&column=5&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<hr width="36%">
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="250" src="Profile1.webp">
+<br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unknownplanet40&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="unknownplanet40"></p>
+<p><br><br><br><br><br><br><br></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=unknownplanet40&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="unknownplanet40"></p>
+<br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unknownplanet40&amp;theme=dark" alt="unknownplanet40"></p>
+<br><br><br><br><br><br><br>
+
+![Visitor Badge](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-<a href="#"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula"/></a><br>
-  
-<a href="#"><img src="https://streak-stats.demolab.com?user=Unknownplanet40&theme=dracula"/></a><br>
-  
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownplanet40&hide=Hack&theme=dracula"/></a>
+
 </div>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
