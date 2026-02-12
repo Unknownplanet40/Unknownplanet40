@@ -41,8 +41,11 @@
 
 [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Unknownplanet40&theme=discord&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 </div>
-<hr width="36%">
+
+![Visitor Badge](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="250" src="Profile1.webp">
 <br><br><br>
@@ -51,8 +54,6 @@
 <p>&nbsp;<img align="left" src="./profile/stats.svg" alt="unknownplanet40"></p>
 <br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="./profile/wakatime.svg" alt="unknownplanet40"></p>
-<br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unknownplanet40&amp;theme=dark" alt="unknownplanet40"></p>
-<br><br><br><br><br><br><br>
 
 ![Visitor Badge](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
