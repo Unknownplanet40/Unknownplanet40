@@ -22,6 +22,13 @@
 </div>
 
 <h4 align="center">I debug life the same way I debug code with patience, caffeine, and a bit of panic.</h4>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknownplanet40&theme=github_dark" alt="GitHub profile summary card displaying Unknownplanet40 user statistics and contribution details on a dark background" />
+
+
+
+
 <hr width="60%">
 <br>
 <img align="right" alt="Coding" width="250" src="Gprofile.gif"></p>
@@ -46,6 +53,7 @@
 </div>
 
 ![Visitor Badge](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="250" src="Profile1.webp">
