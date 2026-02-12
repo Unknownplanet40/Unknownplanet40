@@ -1,75 +1,58 @@
-# Hi there, I'm Capsss! 👋
+<div align="center">
+  <img src="CoverImage.png" align="center" width="820px" />
+</div>
+<br>
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&duration=2500&pause=5000&color=F7F7F7&vCenter=true&width=512&height=30&lines=Hi+%F0%9F%91%8B%2C+Ryan+James+Capadocia;Hi+%F0%9F%91%8B%2C+Unknownplanet40" />
 
-I'm an IT Support professional, IT student, and aspiring developer passionate about technology and problem-solving. I enjoy working on projects that combine technical skills with creative solutions, and I'm always eager to learn new technologies and best practices.
+<br>
+<p align="left">
+<a href="https://www.facebook.com/Cappps.Lock/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.linkedin.com/in/ryan-james-capadocia-025984199/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.udemy.com/user/rjc-6/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/></a>
+<a href="https://www.codepen.io/Unknownplanet40/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
+<a href="https://www.stackoverflow.com/users/unknownplanet-40" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/></a>
+<a href="https://www.stackoverflow.com/users/unknownplanet-40" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/Unknownplanet40?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers"/></a>
+<a href="https://wakatime.com/@c88aa3fb-459c-4ade-8c73-64f74da34f06" title="Total time coded"><img src="https://wakatime.com/badge/user/c88aa3fb-459c-4ade-8c73-64f74da34f06.svg?style=for-the-badge&color=01B6F5&label_color=0D0D0D" alt="WakaTime — Total time coded" /></a>
+</p>
+<div align="center">
+<p>Visitor's Count :</p>
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+</div>
 
----
+<h4 align="center">I debug life the same way I debug code with patience, caffeine, and a bit of panic.</h4>
+<hr width="60%">
+<br>
+<img align="right" alt="Coding" width="250" src="Gprofile.gif"></p>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<div align="left" width="60%">
 
-## 🛠️ Skills & Tech Stack
+![My Skills](https://skillicons.dev/icons?i=java,php,mysql)
+![My Skills](https://skillicons.dev/icons?i=md,cs,cpp)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=jquery)
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+</div>
+<br>
+<hr width="36%">
+<h3>My Trophy Case</h3>
+<div align="center">
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Unknownplanet40&theme=discord&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### IT Support
-- Troubleshooting & Technical Support
-- Network Administration
-- System Configuration
-- Customer Service
+</div>
+<hr width="36%">
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="250" src="Profile1.webp">
+<br><br><br>
+<p><img align="left" src="./profile/top-langs.svg" alt="unknownplanet40"></p>
+<p><br><br><br><br><br><br><br></p>
+<p>&nbsp;<img align="left" src="./profile/stats.svg" alt="unknownplanet40"></p>
+<br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="./profile/wakatime.svg" alt="unknownplanet40"></p>
+<br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unknownplanet40&amp;theme=dark" alt="unknownplanet40"></p>
+<br><br><br><br><br><br><br>
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Project Name 1](#)
-_Coming soon..._
-
-Brief description of what this project does and the technologies used.
-
-### 🔹 [Project Name 2](#)
-_Coming soon..._
-
-Brief description of what this project does and the technologies used.
-
-### 🔹 [Project Name 3](#)
-_Coming soon..._
-
-Brief description of what this project does and the technologies used.
-
----
-
-## 📚 What I'm Currently Learning
-
-- Advanced web development techniques
-- Cloud computing and services
-- DevOps practices and automation
-- Software development best practices
-
----
-
-## 📫 How to Reach Me
-
-- **GitHub**: [@Unknownplanet40](https://github.com/Unknownplanet40)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
-
-Feel free to reach out if you'd like to collaborate on a project or just want to connect!
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unknownplanet40&show_icons=true&theme=radical)
-
----
-
-*Thanks for visiting my profile! Have a great day!* ✨
+![Visitor Badge](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
