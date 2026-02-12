@@ -17,7 +17,8 @@
 </p>
 <div align="center">
 <p>Visitor's Count :</p>
-  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+  <!-- <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Visitor Count" /> -->
+  <img src="https://counter.kuber.studio/Unknownplanet40/hacker/count.svg" alt="Profile views" />
 </div>
 
 <h4 align="center">I debug life the same way I debug code with patience, caffeine, and a bit of panic.</h4>
