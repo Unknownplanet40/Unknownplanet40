@@ -1,12 +1,14 @@
-<div align="center" width="100%">
-  <img src="Top.png" align="center" width="100%" />
-</div>
-
 <br>
 
 <div align="center">
-  <img src="CoverImage.png" align="center" width="820px" />
+  <img src="CoverImage-darkmode.png#gh-dark-mode-only" align="center" width="820px" />
 </div>
+
+<div align="center">
+  <img src="CoverImage-lightmode.png#gh-light-mode-only" align="center" width="820px" />
+</div>
+
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&duration=2500&pause=5000&color=F7F7F7&vCenter=true&width=512&height=30&lines=Hi+%F0%9F%91%8B%2C+Ryan+James+Capadocia;Hi+%F0%9F%91%8B%2C+Unknownplanet40" />
@@ -75,6 +77,6 @@
 
 <br>
 
-<div align="center" width="100%">
-  <img src="Bottom.png" align="center" width="100%" />
-</div>
+
+>[!IMPORTANT] Important Note: 
+> Some badges and stats may not load due to temporary external service downtime. Please check back later or visit the respective providers directly.
