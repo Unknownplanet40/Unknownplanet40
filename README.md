@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&duration=2500&pause=5000&color=F7F7F7&vCenter=true&width=512&height=30&lines=Hi+%F0%9F%91%8B%2C+Ryan+James+Capadocia;Hi+%F0%9F%91%8B%2C+Unknownplanet40" />
+<img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=30&duration=2500&pause=3000&color=F7F7F7&vCenter=true&width=512&height=30&lines=Hi+it's+Ryan+James+Capadocia;aka:+Unknownplanet40;aka:+@ITs.Capsss" />
 
 <br>
 <p align="left">
@@ -31,15 +31,16 @@
 
 <h4 align="center">I debug life the same way I debug code with patience, caffeine, and a bit of panic.</h4>
 
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=unknownplanet40&theme=github-dark&style=jet#gh-light-mode-only" align="center" width="820px" />
+</div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknownplanet40&theme=github_dark" alt="GitHub profile summary card displaying Unknownplanet40 user statistics and contribution details on a dark background" />
 
 
-
-
-<hr width="60%">
+![Horizontal Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <br>
-<img align="right" alt="Coding" width="250" src="Gprofile.gif"></p>
+<!--<img align="right" alt="Coding" width="250" src="Gprofile.gif"></p>-->
+<img align="right" alt="Coding" width="250" src="Profile1.webp">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" width="60%">
@@ -51,12 +52,11 @@
 
 </div>
 <br>
-<hr width="36%">
+<hr width="50%">
 <h3>My Trophy Case</h3>
 <div align="center">
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Unknownplanet40&theme=discord&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Currently, the trophy is not available. Please try again later.](https://github-profile-trophy-fork-two.vercel.app/?username=Unknownplanet40&theme=discord&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -64,19 +64,17 @@
 
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="250" src="Profile1.webp">
-<br><br><br>
-<p><img align="left" src="./profile/top-langs.svg" alt="unknownplanet40"></p>
-<p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="./profile/stats.svg" alt="unknownplanet40"></p>
-<br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="center" src="./profile/wakatime.svg" alt="unknownplanet40"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unknownplanet40&amp;theme=dark" alt="unknownplanet40"></p>
+<div align="center">
+  
+<img src="./profile/top-langs.svg" alt="unknownplanet40">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unknownplanet40&amp;theme=dark" alt="unknownplanet40">
+<br>
+<!-- <p>&nbsp;<img align="left" src="./profile/stats.svg" alt="unknownplanet40" style="display:"></p> -->
+<img src="./profile/wakatime.svg" alt="unknownplanet40">
+
+</div>
 
 ![Visitor Badge](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br>
-
-
->[!IMPORTANT] Important Note: 
-> Some badges and stats may not load due to temporary external service downtime. Please check back later or visit the respective providers directly.
