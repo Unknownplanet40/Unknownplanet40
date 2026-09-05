@@ -15,7 +15,7 @@
 
 <br>
 <p align="left">
-<a href="https://www.facebook.com/Cappps.Lock/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<!--<a href="https://www.facebook.com/Cappps.Lock/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>-->
 <a href="https://www.linkedin.com/in/ryan-james-capadocia-025984199/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.udemy.com/user/rjc-6/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/></a>
 <a href="https://www.codepen.io/Unknownplanet40/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
