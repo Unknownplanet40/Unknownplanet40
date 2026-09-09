@@ -1,9 +1,9 @@
-name: Keep Activity Natural
+name: Activity
 
 on:
   schedule:
-    # Runs once per day at 09:00 UTC
-    - cron: "0 9 * * *"
+    # Every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,34 +12,74 @@ permissions:
 jobs:
   activity:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure Git (as you)
+      - name: Configure Git
         run: |
           git config user.name "Unknownplanet40"
           git config user.email "57881134+Unknownplanet40@users.noreply.github.com"
 
-      - name: Update activity log (random times)
+      - name: Random activity
         run: |
-          # Create the file if it doesn't exist
           mkdir -p profile
-          touch profile/activity.log
 
-          # Random number of entries (1 to 12)
-          COUNT=$(( (RANDOM % 12) + 1 ))
+          LOG="profile/activity.log"
+          STATE="profile/activity-state"
 
-          echo "Adding $COUNT activity entries..."
+          touch "$LOG"
 
-          for i in $(seq 1 $COUNT); do
-            echo "$(date -u '+%Y-%m-%d %H:%M:%S UTC') - activity update #$i" >> profile/activity.log
-            # Small delay so commits have different timestamps (optional)
-            sleep 1
-            git add profile/activity.log
-            git commit -m "chore: activity update ($i/$COUNT)"
+          TODAY=$(date -u +%F)
+
+          # Reset counter every day
+          if [[ -f "$STATE" ]]; then
+            source "$STATE"
+          fi
+
+          if [[ "$DATE" != "$TODAY" ]]; then
+            DATE="$TODAY"
+            COUNT=0
+          fi
+
+          echo "Today's commits: $COUNT"
+
+          # Already reached today's limit
+          if [[ $COUNT -ge 12 ]]; then
+            echo "Already reached 12 commits today."
+            exit 0
+          fi
+
+          # 50% chance to skip this hour
+          if (( RANDOM % 100 < 50 )); then
+            echo "Skipping this hour."
+            exit 0
+          fi
+
+          REMAINING=$((12 - COUNT))
+
+          # Random commits this run (1..remaining)
+          COMMITS=$(( RANDOM % REMAINING + 1 ))
+
+          echo "Creating $COMMITS commit(s)..."
+
+          for ((i=1; i<=COMMITS; i++)); do
+            echo "$(date -u '+%Y-%m-%d %H:%M:%S UTC') - $RANDOM" >> "$LOG"
+
+            git add "$LOG"
+
+            git commit -m "chore: activity update" || continue
+
+            COUNT=$((COUNT + 1))
           done
+
+          echo "DATE=$TODAY" > "$STATE"
+          echo "COUNT=$COUNT" >> "$STATE"
+
+          git add "$STATE"
+          git commit -m "chore: update activity state" || true
 
           git push
