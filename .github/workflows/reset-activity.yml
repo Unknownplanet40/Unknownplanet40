@@ -1,0 +1,50 @@
+name: Reset Activity
+
+on:
+  schedule:
+    # 00:00 UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "Unknownplanet40"
+          git config user.email "57881134+Unknownplanet40@users.noreply.github.com"
+
+      - name: Reset activity files
+        run: |
+          mkdir -p profile
+
+          # Empty the activity log
+          : > profile/activity.log
+
+          # Reset the daily counter
+          cat > profile/activity-state <<EOF
+          DATE=$(date -u +%F)
+          COUNT=0
+          EOF
+
+      - name: Commit changes
+        run: |
+          git add profile/activity.log profile/activity-state
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: reset daily activity"
+          git push
