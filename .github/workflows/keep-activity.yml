@@ -1,0 +1,45 @@
+name: Keep Activity Natural
+
+on:
+  schedule:
+    # Runs once per day at 09:00 UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git (as you)
+        run: |
+          git config user.name "Unknownplanet40"
+          git config user.email "57881134+Unknownplanet40@users.noreply.github.com"
+
+      - name: Update activity log (random times)
+        run: |
+          # Create the file if it doesn't exist
+          mkdir -p profile
+          touch profile/activity.log
+
+          # Random number of entries (1 to 12)
+          COUNT=$(( (RANDOM % 12) + 1 ))
+
+          echo "Adding $COUNT activity entries..."
+
+          for i in $(seq 1 $COUNT); do
+            echo "$(date -u '+%Y-%m-%d %H:%M:%S UTC') - activity update #$i" >> profile/activity.log
+            # Small delay so commits have different timestamps (optional)
+            sleep 1
+            git add profile/activity.log
+            git commit -m "chore: activity update ($i/$COUNT)"
+          done
+
+          git push
