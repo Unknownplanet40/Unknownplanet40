@@ -1,18 +1,14 @@
 name: Activity
-
 on:
   schedule:
-    # Every hour
-    - cron: "0 * * * *"
+    # 08:00, 13:00, 18:00, 23:00 UTC (5-hour intervals, 8 AM → midnight)
+    - cron: "0 8,13,18,23 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   activity:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,25 +23,25 @@ jobs:
       - name: Random activity
         run: |
           mkdir -p profile
-
           LOG="profile/activity.log"
           STATE="profile/activity-state"
-
           touch "$LOG"
-
           TODAY=$(date -u +%F)
 
-          # Reset counter every day
+          # Load previous state
           if [[ -f "$STATE" ]]; then
             source "$STATE"
           fi
 
+          # New day → reset counter + clear the log
           if [[ "$DATE" != "$TODAY" ]]; then
             DATE="$TODAY"
             COUNT=0
+            : > "$LOG"          # reset activity.log
+            echo "New day – activity.log reset"
           fi
 
-          echo "Today's commits: $COUNT"
+          echo "Today's commits so far: $COUNT"
 
           # Already reached today's limit
           if [[ $COUNT -ge 12 ]]; then
@@ -53,33 +49,27 @@ jobs:
             exit 0
           fi
 
-          # 50% chance to skip this hour
+          # 50 % chance to skip this run
           if (( RANDOM % 100 < 50 )); then
-            echo "Skipping this hour."
+            echo "Skipping this run."
             exit 0
           fi
 
           REMAINING=$((12 - COUNT))
-
-          # Random commits this run (1..remaining)
+          # Random commits this run (1 … remaining)
           COMMITS=$(( RANDOM % REMAINING + 1 ))
-
           echo "Creating $COMMITS commit(s)..."
 
           for ((i=1; i<=COMMITS; i++)); do
             echo "$(date -u '+%Y-%m-%d %H:%M:%S UTC') - $RANDOM" >> "$LOG"
-
             git add "$LOG"
-
             git commit -m "chore: activity update" || continue
-
             COUNT=$((COUNT + 1))
           done
 
+          # Save state
           echo "DATE=$TODAY" > "$STATE"
           echo "COUNT=$COUNT" >> "$STATE"
-
-          git add "$STATE"
+          git add "$STATE" "$LOG"
           git commit -m "chore: update activity state" || true
-
           git push
