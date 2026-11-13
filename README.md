@@ -31,9 +31,9 @@
 
 <h4 align="center">I debug life the same way I debug code with patience, caffeine, and a bit of panic.</h4>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=unknownplanet40&theme=github-dark&style=jet#gh-light-mode-only" align="center" width="820px" />
-</div>
+</div> -->
 
 
 
